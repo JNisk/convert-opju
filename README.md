@@ -45,7 +45,7 @@ This tool does not need to be separately installed; it can simply be
 downloaded and run. To acquire a copy of this tool, you can download 
 it from this repository or use git clone:
 
-(git clone instructions here)
+`git clone https://github.com/JNisk/convert-opju.git`
 
 To install the required packages in Origin 2024b, go to Connectivity > 
 Python Packages > Install and enter the package names. For example, to 
