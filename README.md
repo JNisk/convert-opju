@@ -7,7 +7,8 @@ to .csv, .txt and .png files.
 
 If you use this tool, please cite the following source:
 
-(update DOI here)
+Niskanen, J (2025). JNisk/convert-opju (v1.0). Zenodo.
+https://doi.org/10.5281/zenodo.15300716
 
 ## Table of contents
 
